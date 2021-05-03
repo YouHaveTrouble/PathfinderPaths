@@ -1,4 +1,4 @@
-# PathfinderPath
+# PathfinderPaths
 
 PathfinderPath is an API that allows you to use minecraft pathfinder to get a list of locations from the starting point
 up until the goal.
